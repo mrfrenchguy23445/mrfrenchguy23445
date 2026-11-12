@@ -43,7 +43,6 @@ Hey i'm French a mc developer plugin/mod with 5+ years of experience. I’m frie
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=mrfrenchguy23445&show_icons=true&hide_border=false&border_color=2A2D2A&bg_color=0C0D0C&title_color=C8F169&icon_color=C8F169&text_color=EDEDE6&ring_color=C8F169" alt="GitHub stats" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
 <img src="https://img.shields.io/badge/Paper-0C0D0C?style=for-the-badge&logo=papermc&logoColor=C8F169" alt="Paper" />
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
