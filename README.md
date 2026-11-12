@@ -10,8 +10,6 @@
 
 <img src="https://img.shields.io/badge/Experience-5%2B_years-C8F169?style=for-the-badge&labelColor=0C0D0C" alt="5+ years" />
 <img src="https://img.shields.io/badge/Minecraft-Developer-C8F169?style=for-the-badge&logo=minecraft&logoColor=white&labelColor=0C0D0C" alt="Minecraft developer" />
-<img src="https://img.shields.io/badge/Based_in-France_🇫🇷-C8F169?style=for-the-badge&labelColor=0C0D0C" alt="French" />
-
 </div>
 
 ---
@@ -46,7 +44,13 @@ Hey i'm French a mc developer plugin/mod with 5+ years of experience. I’m frie
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrfrenchguy23445&show_icons=true&hide_border=false&border_color=2A2D2A&bg_color=0C0D0C&title_color=C8F169&icon_color=C8F169&text_color=EDEDE6&ring_color=C8F169" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrfrenchguy23445&layout=compact&hide_border=false&border_color=2A2D2A&bg_color=0C0D0C&title_color=C8F169&text_color=EDEDE6" alt="Top languages" />
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+<img src="https://img.shields.io/badge/Paper-0C0D0C?style=for-the-badge&logo=papermc&logoColor=C8F169" alt="Paper" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+<img src="https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle" />
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 
 <br><br>
 
